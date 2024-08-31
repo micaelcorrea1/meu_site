@@ -19,9 +19,9 @@
 
    <nav>
         <ul>
-            <li><a href="formacao.html" class="color_link">Formação acadêmica</a> </li>
-            <li><a href="contato.html " class="color_link">Contato</a></li> 
-            <li><a href="portfolio.html" class="color_link">Portfólio</a></li>
+            <li><a href="/paginas_html/formacao.html" class="color_link">Formação acadêmica</a> </li>
+            <li><a href="/paginas_html/contato.html " class="color_link">Contato</a></li> 
+            <li><a href="/paginas_html/portfolio.html" class="color_link">Portfólio</a></li>
         </ul>
    </nav>
 
